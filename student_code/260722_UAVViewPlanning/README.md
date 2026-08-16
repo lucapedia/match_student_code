@@ -16,12 +16,9 @@ Tracking-Einheiten. Reines Python, kein ROS.
 * `vpp3d` — volle 3D-Implementierung inkl. Registrierungsgraph, Pose-Verfeinerung,
   Tracking-Standorten und TSP-Sequenzierung
 
-**Author:** Luca Loschge
-
 ## Installation
 
-Kein ROS-Paket — Ordner beliebig ablegen. **Python 3.12** (Open3D hat Stand 2026
-keine Wheels für 3.13/3.14).
+**Python 3.12** (Open3D hat Stand 2026 keine Wheels für 3.13/3.14).
 
 ```bash
 cd 260722_UAVViewPlanning
